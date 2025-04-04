@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     <a href="#">
-      <img src="https://raw.githubusercontent.com/ThyKinslayer/proxmox/misc/images/logo.png" height="100px" />
+      <img src="https://github.com/ThyKinslayer/proxmox/tree/97871892b97b83003f554bf0530894e633f6d1a4/misc/images/logo.png" height="100px" />
     </a>
   </p>
 </div>
